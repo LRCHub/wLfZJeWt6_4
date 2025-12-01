@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Era.2967",
+  "base_artist": "Adomiori、音街ウナ",
+  "createdAt": "2025-12-01T09:55:19.323122Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Era.2967 (feat. 音街ウナ)",
+      "artist": "Adomiori",
+      "has_synced": false,
+      "path": "select/pl_01_Era.2967_(feat._音街ウナ)_Adomiori.txt"
+    }
+  ]
+}
